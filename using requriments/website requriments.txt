@@ -1,0 +1,11 @@
+website:
+========
+browser             : chrome,
+editor              : visual studio code;
+using language      :html,css,javascript,jquery,bootstrap;
+fonts               : google.fonts.com
+colors              :coolors.com
+preloader           :icons8.com/preloader/
+icons               :fontawesome.com
+videos&images       :pixababy.com/unsplash.com/pexels.com/picjumbo.com/gartisography.com
+wirframe            :pencile.com
