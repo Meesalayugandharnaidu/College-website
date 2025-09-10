@@ -164,18 +164,3 @@ $(function () {
     }
   }
 });
-/*==================
-   smooth-scrollng effect
-====================*/
-//*$(function () {
-//   $("a.smooth-scroll").click(function (event) {
-//     event.preventDefault();
-//     var section_id = $(this).attr("href");
-//     $("html,body").animate(
-//       {
-//         screenTop: $(section_id).offset().top - 65,
-//       },
-//       1000
-//     );
-//   });
-// );
